@@ -119,6 +119,13 @@ Description
 		func:			"testSaveLoadButton"
 	}
 
+	Analysis
+	{
+		title:			"Restriktor Text Type Area (Encoding)"
+		qml:			"testEncodingRestriktor.qml"
+		func:			"testEncodingRestriktor"
+	}
+
 	Separator {}
 
 	Analysis
