@@ -183,5 +183,13 @@ Description
 		requiresData:	true
 	}
 
+	Analysis
+	{
+		title:			"Patchwork"
+		func:			"testPatchwork"
+		qml:			"TestPatchwork.qml"
+		requiresData:	false
+	}
+
 }
 
