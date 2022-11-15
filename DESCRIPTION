@@ -8,5 +8,5 @@ Website:
 Maintainer: Joris Goosen <Joris@JorisGoosen.nl>
 Description: A module to test stuff with.
 License: Whatever
-Imports: jaspBase, jaspGraphs, svglite, stringi
-Remotes: jasp-stats/jaspBase, jasp-stats/jaspGraphs
+Imports: jaspBase, jaspGraphs, jaspTools, svglite, stringi
+Remotes: jasp-stats/jaspBase, jasp-stats/jaspGraphs, jasp-stats/jaspTools

@@ -190,5 +190,15 @@ Description
 		requiresData:	true
 	}
 
+	Separator{}
+	GroupTitle { title: "Tests" }
+
+	Analysis
+	{
+		title:			"RNG Kind"
+		func:			"rngKind"
+		qml:			"RNGKind"
+		requiresData:	false
+	}
 }
 
